@@ -11,4 +11,4 @@ An automated tool for Google Dorking and SQL injection testing.
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/sql-dork-tool.git
+   git clone https://github.com/RamadhanAlfatih/sql-dork-tool.git
