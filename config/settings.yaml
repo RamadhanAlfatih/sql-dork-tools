@@ -1,0 +1,7 @@
+dorking:
+  num_results: 5
+  pause: 2
+
+sqlmap:
+  level: 3
+  risk: 3
